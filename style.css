@@ -42,3 +42,8 @@ nav a:hover { text-decoration: underline; }
 }
 .carte img { width: 100%; display: block; }
 .prix { color: darkgreen; font-weight: bold; }
+
+#contact { padding: 40px 24px; background: beige; text-align: center; }
+#contact h2 { color: darkgreen; }
+footer { background: green; color: white; text-align: center; padding: 14px; }
+footer p { margin: 0; }
