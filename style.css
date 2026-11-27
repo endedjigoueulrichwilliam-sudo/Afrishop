@@ -30,3 +30,15 @@ nav a:hover { text-decoration: underline; }
   padding: 10px 22px;
   border-radius: 4px;
 }
+
+#produits { padding: 40px 24px; }
+#produits h2 { color: darkgreen; text-align: center; }
+.cartes { display: flex; gap: 20px; justify-content: center; }
+.carte {
+  width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 12px;
+}
+.carte img { width: 100%; display: block; }
+.prix { color: darkgreen; font-weight: bold; }
